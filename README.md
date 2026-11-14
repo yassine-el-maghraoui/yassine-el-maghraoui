@@ -27,15 +27,13 @@ A prototype that turns business requirements and supporting documents into a sou
 
 **LS2N — DUKe team, Nantes | AI / ML Research Intern · September 2026**
 - Adapted a PyTorch contrastive-learning approach for museum trajectory prediction.
-- Evaluated a model reaching **51% Top-1 and 90% Top-5**, with Top-5 **18 percentage points above a topology-only baseline**.
+- Evaluated a model reaching **51% Top-1 and 90% Top-5**.
 - Detected data leakage and introduced cross-validation on **45 visitors / 1,403 examples**, ruling out an artificial 5-point gain.
 
 **Museology Lab — Ionian University, Greece | Research Intern · May–August 2026**
 - Structured and integrated **7,204 observations from 51 visitors** into G-SITM.
 - Reconstructed **41/41 rooms as valid geometries** from 495 disconnected walls.
 - Modelled a museum with **66 rooms and 165 artworks** using Python and PostgreSQL/PostGIS, correcting 17 adjacency issues.
-
-*Results above describe internship evaluations reported in my CV; they are separate from the public Copilot benchmarks.*
 
 ## Technical toolkit
 
